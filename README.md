@@ -31,7 +31,6 @@ team spirit.
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"></code>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Berkancelik&show_icons=true&theme=gotham" alt="Berkancelik" />
 
 
 <br />
