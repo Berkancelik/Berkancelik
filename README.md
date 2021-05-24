@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ### Hi there 👋
 Hi, I'm **Berkan Çelik**, A software developer and data scientist candidate. Develops software 
