@@ -1,7 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
 ### Hi there 👋
-Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. Nowadays I'm going to high school (10th grade). I love programming and creating projects.
+Hi, I'm **Berkan Çelik**, A software developer and data scientist candidate. Develops software 
+compatible with the enterprise software architecture. It constantly 
+improves itself in the field of data science. Works on database and data 
+analysis. A candidate who is very suitable for teamwork and has a good 
+team spirit.
+.
 
 <br />
 
@@ -28,4 +33,3 @@ Hi, I'm **Sezer Tetik**, I'm working on improve myself about the programming. No
 <br />
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berkanCelikR&show_icons=true&theme=gotham" alt="Berkancelik" />
