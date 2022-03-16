@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-Hi, I'm **Berkan Çelik**, A software developer and data scientist candidate. Develops software 
+Hi, I'm **Berkan Çelik**, A software developer  candidate. Develops software 
 compatible with the enterprise software architecture. It constantly 
 improves itself in the field of data science. Works on database and data 
 analysis. A candidate who is very suitable for teamwork and has a good 
