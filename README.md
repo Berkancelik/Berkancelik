@@ -28,3 +28,4 @@ I'm a Software Developer mostly working on the backend. I am developing projects
 
 Exploring is an exciting thing. Travels, music, designs and technologies are my interests.
   
+(https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
