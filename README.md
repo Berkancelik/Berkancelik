@@ -28,3 +28,7 @@ I'm a Software Developer mostly working on the backend. I am developing projects
 Exploring is an exciting thing. Travels, music, designs and technologies are my interests.
   
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
+
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
