@@ -6,7 +6,7 @@
   <img align="left" alt="LinkedIn" width="22px" src="https://user-images.githubusercontent.com/27498814/109384021-3ff3d180-78fb-11eb-9000-421b983e407e.png" />
 </a>
 <a href="https://www.hackerrank.com/celikberkan1">
-  <img align="left" alt="Hackerrank" width="22px" src="[https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)" />
+  <img align="left" alt="" width="22px" src="[https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png](https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png)" />
 </a>
 <a href="https://dev.to/berkancelik" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="apobozdag" width="22px" /></a>
 
