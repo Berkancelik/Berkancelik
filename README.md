@@ -30,5 +30,5 @@ Exploring is an exciting thing. Travels, music, designs and technologies are my 
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Berkanceliks&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Berkanceliks&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Berkancelik&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Berkancelik&show_icons=true&theme=radical)
