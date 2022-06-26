@@ -30,5 +30,13 @@ Exploring is an exciting thing. Travels, music, designs and technologies are my 
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Berkancelik&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Berkancelik&show_icons=true&theme=radical)
+**Stats :**
+
+<a href="#">
+  <img align="center" src="https://github-readme-stats-pro.vercel.app/api?username=Berkancelik&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My github stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkancelik&layout=compact&langs_count=8&hide=smalltalk,cuda,dockerfile&theme=dark" alt="My github stats" />
+</a>
+
+<br/>
