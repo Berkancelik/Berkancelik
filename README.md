@@ -32,11 +32,4 @@ Exploring is an exciting thing. Travels, music, designs and technologies are my 
 
 **Stats :**
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats-pro.vercel.app/api?username=Berkancelik&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My github stats" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkancelik&layout=compact&langs_count=8&hide=smalltalk,cuda,dockerfile&theme=dark" alt="My github stats" />
-</a>
-
-<br/>
+| <a href="https://github.com/Berkancelik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Berkancelik&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Berkancelik/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkancelik&layout=compact&theme=buefy&hide_border=true" /></a> |
