@@ -7,7 +7,7 @@
 </a>
 <a href="https://dev.to/berkancelik" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="apobozdag" width="22px" /></a>
 <a href="https://stackoverflow.com/users/18999798/berkan-%c3%87elik" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="5874745" width="22px" /></a>
-<a href="https://www.instagram.com/berkanceliks/?hl=tr">
+<a href="https://www.instagram.com/berkancelik0/?hl=tr">
   <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png" />
 </a>
 <a href="https://twitter.com/BerkancelikEn">
@@ -30,5 +30,5 @@ Exploring is an exciting thing. Travels, music, designs and technologies are my 
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=Berkancelik&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=Berkancelik&show_icons=true&theme=radical)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Berkanceliks&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=Berkanceliks&show_icons=true&theme=radical)
