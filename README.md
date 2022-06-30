@@ -18,8 +18,6 @@
   <img align="left" alt="Twitter" width="22px" src="https://user-images.githubusercontent.com/27498814/109383921-b93ef480-78fa-11eb-8945-3e10f7942b69.png" />
 </a>
 
-
-
 <a href="mailto:celikberkan1@outlook.com">
   <img align="left" alt="Email" width="22px" src="https://user-images.githubusercontent.com/27498814/109384016-3e2a0e00-78fb-11eb-8547-a1fe5998a1f9.png" />
 </a>
