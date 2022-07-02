@@ -31,7 +31,6 @@ Exploring is an exciting thing. Travels, music, designs and technologies are my 
   
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
-
 **Stats :**
 
 <a href="#">
@@ -40,5 +39,4 @@ Exploring is an exciting thing. Travels, music, designs and technologies are my 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkancelik&layout=compact&langs_count=8&hide=smalltalk,cuda,dockerfile&theme=dark" alt="My github stats" />
 </a>
-
 <br/>
