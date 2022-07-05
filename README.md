@@ -25,9 +25,7 @@
 <br />
 <br />
 
-I'm a Software Developer mostly working on the backend. I am developing projects with .NET
-
-Exploring is an exciting thing. Travels, music, designs and technologies are my interests.
+I'm a Software Developer mostly working on the backend. I am developing projects with .NETn Exploring is an exciting thing. Travels, music, designs and technologies are my interests.
   
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
 
