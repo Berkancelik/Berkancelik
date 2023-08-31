@@ -14,7 +14,7 @@
   <img align="left" alt="Instagram" width="22px" src="https://user-images.githubusercontent.com/27498814/109383899-9f9dad00-78fa-11eb-98da-7cf19c69dcfd.png" />
 </a>
 
-<a href="https://twitter.com/BerkancelikEn">
+<a href="https://twitter.com/berkannclkk">
   <img align="left" alt="Twitter" width="22px" src="https://user-images.githubusercontent.com/27498814/109383921-b93ef480-78fa-11eb-8945-3e10f7942b69.png" />
 </a>
 
